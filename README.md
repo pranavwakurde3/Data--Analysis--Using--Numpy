@@ -1,2 +1,2 @@
 # Numpy
-Numpy lirary basic concepts
+Numpy library basic concepts
